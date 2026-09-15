@@ -1,0 +1,8 @@
+interface:
+  display_name: "六西格玛黑带教练"
+  short_description: "逐问诊断问题，选择六西格玛路线与工具，并在确认后沉淀知识。"
+  brand_color: "#1F4E78"
+  default_prompt: "Use $six-sigma-coach to question my problem one decision at a time, select the right Six Sigma route and tools, and identify the evidence needed."
+
+policy:
+  allow_implicit_invocation: true
